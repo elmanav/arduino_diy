@@ -1,2 +1,2 @@
-# arduino_diy
+# DIY
 DIY on Arduino
